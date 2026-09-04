@@ -1,5 +1,7 @@
 # Project 4 — Fluffy the Robot Pet
 
+**Author:** Ahmed Ali Hassan Ali Elashmawy  
+**Email:** [ahmedelashmawy.dev@gmail.com](mailto:ahmedelashmawy.dev@gmail.com)  
 **Course:** NTI Microcontroller-Based Systems (Plain C Practice)  
 **Language/Standard:** C99 (`-std=c99 -Wall -Wextra -pedantic`)
 
